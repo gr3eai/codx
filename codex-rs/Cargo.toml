@@ -147,7 +147,7 @@ itertools = "0.14.0"
 keyring = { version = "3.6", default-features = false }
 landlock = "0.4.1"
 lazy_static = "1"
-libc = "0.2.177"
+libc = "0.2.178"
 log = "0.4"
 lru = "0.12.5"
 maplit = "1.0.2"
